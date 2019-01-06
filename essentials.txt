@@ -2,6 +2,7 @@ Basic List
 -------------
 - knives
 - first aid kit
+- H20 bottle
 
 Auxiliary
 -------------
